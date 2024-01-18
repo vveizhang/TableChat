@@ -12,6 +12,6 @@ I wasn't impressed untill I ask the agent to calculate the correlation between t
 
 
 <p align="center">
-<img src="imgs/agent.png">
+<img src="imgs/agent.png" alt="schema" width="800"/>
 <br>
 <em>Correlation Calculation</em></p>
